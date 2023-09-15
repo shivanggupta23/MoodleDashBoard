@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "961436508616",
+    "project_id": "moodle-app-1b806",
+    "storage_bucket": "moodle-app-1b806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961436508616:android:e63ddbf43109ff7700a0fd",
+        "android_client_info": {
+          "package_name": "com.example.google_sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961436508616-7tr52mehgg62duoc6uikts6ovdpbupn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_sign",
+            "certificate_hash": "451aace86ef58f75e33e2003f62fd0109b0d8804"
+          }
+        },
+        {
+          "client_id": "961436508616-b9vdtbi7jekog7gagplu69nku5s2smm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4v5LDLIdHLM83se-72Eb4IWuXGqI7M5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961436508616-b9vdtbi7jekog7gagplu69nku5s2smm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961436508616:android:975dd2495dfec54300a0fd",
+        "android_client_info": {
+          "package_name": "com.example.moodle_mlp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961436508616-b9vdtbi7jekog7gagplu69nku5s2smm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4v5LDLIdHLM83se-72Eb4IWuXGqI7M5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961436508616-b9vdtbi7jekog7gagplu69nku5s2smm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
